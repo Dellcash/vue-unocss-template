@@ -1,6 +1,6 @@
-# avan
+# D3LLC@SH
 
-Vue3 and Unocss boilerplate.
+Vue3 and Unocss RTL boilerplate.
 
 ## Recommended IDE Setup
 
