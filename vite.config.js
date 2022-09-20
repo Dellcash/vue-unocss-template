@@ -18,7 +18,11 @@ export default defineConfig({
         presetIcons()
       ],
       transformers: [
-        transformerCompileClass()
+        transformerCompileClass({
+          trigger: '::',
+          classPrefix: ''
+        }),
+        transformerDirective()
       ]
     }),
     Components({
