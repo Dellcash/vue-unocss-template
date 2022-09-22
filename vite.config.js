@@ -24,7 +24,10 @@ export default defineConfig({
           classPrefix: ''
         }),
         transformerDirective()
-      ]
+      ],
+      shortcuts: {
+        'layout': 'mx-auto max-w-420px md:max-w-768px xl:max-w-1170px',
+      }
     }),
     Components({
       extensions: ['vue', 'js']
