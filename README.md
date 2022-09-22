@@ -1,30 +1,29 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out the README-Template. If you have a suggestion
-*** Don't forget to give the project a star!
--->
+# D3LLC@SH
 
-<br />
-<div align="center">
-  <a href="https://theme45.mywebzi.ir/">
-    <img src="https://theme46.mywebzi.ir/uploads/d4f75b66fd624433b840077a1a186642.w_40,h_40,r_k.png" alt="Logo" width="80" height="80">
-  </a>
+Vue3 and Unocss RTL boilerplate.
 
-  <h3 align="center">HANA wordpress-to-vue</h3>
+## Recommended IDE Setup
 
-  <p align="center">
-   این قالب فروشگاهی و وبلاگی وردپرس 'نیما' بود که بوسیله 
-    <a href="https://uno.antfu.me/">ٔUnocss</a>
-    درحال کدنویسی مجددش هستم به ویوو‌جی‌اس.
-    <br />
-    <a href="#">دمو پروژه من</a>
-    ·
-    <a href="https://theme49.mywebzi.ir/">قالب نیما</a>
-  </p>
-  </p>
-  
-  <br />
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [Unocss](https://marketplace.visualstudio.com/items?itemName=unocss) + [iconify](https://marketplace.visualstudio.com/items?itemName=iconify)
 
-<!-- ![js to vue](./src/assets/images/screen.png) -->
+## Customize configuration
 
-</div>
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
