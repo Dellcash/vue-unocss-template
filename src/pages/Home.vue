@@ -3,11 +3,12 @@
 </script>
 
 <template>
- <div layout>
-    <h1 ml1>زنبور</h1>
+  <div layout>
+    <h1 class="mt-10">bee</h1>
     <div i-carbon-bee text="yellow 3xl" />
- </div>
+  </div>
 </template>
 
 <style lang="scss" scoped>
+
 </style>

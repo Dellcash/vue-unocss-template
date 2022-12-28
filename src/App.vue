@@ -3,12 +3,9 @@
 </template>
 
 <style>
-@font-face {
-  font-family: "IRANSans";
-  src: url("./fonts/FontsFree-Net-ir_sans.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 
 * {
-  font-family: "IRANSans";
+  font-family: 'Comfortaa', cursive;
 }
 </style>
