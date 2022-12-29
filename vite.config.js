@@ -26,7 +26,7 @@ export default defineConfig({
         transformerDirective()
       ],
       shortcuts: {
-        'layout': 'mx-auto max-w-420px md:max-w-768px xl:max-w-1000px',
+        'layout': 'mx-auto max-w-420px md:max-w-768px xl:max-w-1140px',
       }
     }),
     Components({

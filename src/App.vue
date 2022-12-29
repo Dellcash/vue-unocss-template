@@ -7,5 +7,6 @@
 
 * {
   font-family: 'Comfortaa', cursive;
+  outline: none;
 }
 </style>
